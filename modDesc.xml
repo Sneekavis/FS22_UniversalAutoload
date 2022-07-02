@@ -494,6 +494,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Universalne Autoładowanie</pl>
 			<es>Autoload Universal</es>
 			<br>Autoload Universal</br>
+			<pt>Autoload Universal</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_TOGGLE_LOADING">
 			<en>Toggle loading</en>
@@ -505,6 +506,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Przełącz ładowanie</pl>
 			<es>Cambiar carga/descarga</es>
 			<br>Carregar</br>
+			<pt>Activar para carregar</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_UNLOAD_ALL">
 			<en>Unload</en>
@@ -516,6 +518,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Rozładuj</pl>
 			<es>Descargar</es>
 			<br>Descarregar</br>
+			<pt>Descarregar tudo</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_TOGGLE_TIPSIDE">
 			<en>Toggle unloading side</en>
@@ -527,6 +530,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Przełącz stronę rozładunku</pl>
 			<es>Cambiar lado de descarga</es>
 			<br>Lado p/ descarregar</br>
+			<pt>Escolher lado para descarregar</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_TOGGLE_FILTER">
 			<en>Toggle loading filter</en>
@@ -538,6 +542,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Przełącz filtr ładowania</pl>
 			<es>Cambiar filtro de carga</es>
 			<br>Filtro de carregamento</br>
+			<pt>Selecção o que carregar</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_CYCLE_MATERIAL_FW">
 			<en>Change selected material type (next)</en>
@@ -549,6 +554,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Zmień wybrany typ materiału (następny)</pl>
 			<es>Cambiar material seleccionado (siguiente)</es>
 			<br>Trocar tipo de material selecionado (prox.)</br>
+			<pt>Selecionar tipo carga(seguinte)</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_CYCLE_MATERIAL_BW">
 			<en>Change selected material type (previous)</en>
@@ -560,6 +566,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Zmień wybrany typ materiału (poprzedni)</pl>
 			<es>Cambiar material seleccionado (anterior)</es>
 			<br>Trocar tipo de material selecionado (ant.)</br>
+			<pt>Selecionar tipo carga(anterior)</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_SELECT_ALL_MATERIALS">
 			<en>Select all material types</en>
@@ -571,6 +578,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Wybierz wszystkie typy materiałów</pl>
 			<es>Seleccionar todos los materiales</es>
 			<br>Seleciona todos os tipos de materiais</br>
+			<pt>Selecionar todo tipo carga</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_CYCLE_CONTAINER_FW">
 			<en>Change selected container type (next)</en>
@@ -582,6 +590,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Zmień wybrany typ kontenera (następny)</pl>
 			<es>Cambiar tipo de contenedor (siguiente)</es>
 			<br>Trocar tipo de contêiner (prox.)</br>
+			<pt>Selecionar tipo de condicionamento(seguinte)</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_CYCLE_CONTAINER_BW">
 			<en>Change selected container type (previous)</en>
@@ -593,6 +602,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Zmień wybrany typ kontenera (poprzedni)</pl>
 			<es>Cambiar tipo de contenedor (anterior)</es>
 			<br>Trocar tipo de contêiner (ant.)</br>
+			<pt>Selecionar tipo de condicionamento(anterior)</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_SELECT_ALL_CONTAINERS">
 			<en>Select all container types</en>
@@ -604,6 +614,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Wybierz wszystkie typy kontenerów</pl>
 			<es>Todos los tipos de contenedor</es>
 			<br>Marca todos os tipos de contêiners</br>
+			<pt>Selecionar todos os tipo de condicionamento</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_TOGGLE_BELTS">
 			<en>Fasten/Unfasten tension belts</en>
@@ -615,6 +626,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Zapinanie/Odpinanie pasów napinających</pl>
 			<es>Soltar/Sujetar cintas tensoras </es>
 			<br>Apertar/Soltar cintos de tensão</br>
+			<pt>Apertar/desapertar cintas</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_TOGGLE_DOOR">
 			<en>Open/Close rear door</en>
@@ -626,6 +638,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Otwórz/zamknij tylne drzwi</pl>
 			<es>Abrir/Cerrar puerta trasera</es>
 			<br>Abrir/Fechar porta traseira</br>
+			<pt>Abrir/fechar porta da traseira</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_TOGGLE_CURTAIN">
 			<en>Open/Close curtain side</en>
@@ -637,6 +650,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Otwórz/zamknij kurtyny</pl>
 			<es>Abrir/Cerrar cortina lateral</es>
 			<br>Abrir/Fechar cortina lateral</br>
+			<pt>Abrir/fechar cortina</pt>
 		</text>
 		<text name="input_UNIVERSALAUTOLOAD_TOGGLE_DEBUG">
 			<en>Debug mode</en>
@@ -648,6 +662,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Tryb Debugu</pl>
 			<es>Modo debug</es>
 			<br>Modo de Depuração</br>
+			<pt>Modo de Debug</pt>
 		</text>
 
 		<text name="warning_UNIVERSALAUTOLOAD_CLEAR_UNLOADING_AREA">
@@ -660,6 +675,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Obszar rozładunku jest zablokowany. Oczyść obszar rozładunku.</pl>
 			<es>Area de descarga bloqueada. Por favor despeje la zona.</es>
 			<br>Área de descarregamento bloqueada. Por favor, limpe a área de descarga.</br>
+			<pt>A zona de descarga está bloqueada. Por favor liberte a zona de descarga.</pt>
 		</text>
 		<text name="warning_UNIVERSALAUTOLOAD_NO_OBJECTS_FOUND">
 			<en>No compatible goods are available for loading or unloading.</en>
@@ -671,6 +687,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Żadne zgodne towary nie są dostępne do załadunku lub rozładunku.</pl>
 			<es>No hay productos compatibles para cargar o descargar.</es>
 			<br>Nenhum item compatível está disponível para cargarregar ou descarregar.</br>
+			<pt>Nenhuma carga compatível para carregar ou descarregar.</pt>
 		</text>
 		<text name="warning_UNIVERSALAUTOLOAD_UNABLE_TO_LOAD_OBJECT">
 			<en>Loading area is full. Unable to load any more items of this size.</en>
@@ -682,6 +699,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Jesteś Zapchany. Niemożna więcej załadować.</pl>
 			<es>Area de carga completa. No es posible cargar mas objetos de este tamaño.</es>
 			<br>A área de carregamento está cheia. Não foi possível carregar mais destes itens.</br>
+			<pt>Zona de carga está cheia. Impossível de carregar mais cargas deste tamanho.</pt>
 		</text>
 		<text name="warning_UNIVERSALAUTOLOAD_NO_LOADING_UNLESS_STATIONARY">
 			<en>No loading allowed unless stationary. Please come to a complete stop before loading the trailer.</en>
@@ -693,6 +711,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Nie można załadować podczas jazdy. Zatrzymaj pojazd zanim załadujesz.</pl>
 			<es>No es posible cargar en movimiento. Por favor detengase completamente antes de cargar el tráiler.</es>
 			<br>Nenhum carregamento permitido apenas parado. Por favor, pare completamente antes de carregar o trailer.</br>
+			<pt>Para carregar deve estar parado. Por favor trave até parar por completo antes de carregar o reboque.</pt>
 		</text>
 		<text name="universalAutoload_tipside">
 			<en>Unloading side</en>
@@ -704,6 +723,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Strona rozładunku</pl>
 			<es>Lado de descarga</es>
 			<br>Lado de descarregamento</br>
+			<pt>Lado para descarregar</pt>
 		</text>
 		<text name="universalAutoload_left">
 			<en>Left</en>
@@ -715,6 +735,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Lewa</pl>
 			<es>Izquierda</es>
 			<br>Esquerda</br>
+			<pt>Esquerda</pt>
 		</text>
 		<text name="universalAutoload_right">
 			<en>Right</en>
@@ -726,6 +747,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Prawa</pl>
 			<es>Derecha</es>
 			<br>Direita</br>
+			<pt>Direita</pt>
 		</text>
 		<text name="universalAutoload_none">
 			<en>None</en>
@@ -737,6 +759,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Żadna</pl>
 			<es>Ninguno</es>
 			<br>Nenhum</br>
+			<pt>Nenhum</pt>
 		</text>
 		<text name="universalAutoload_loadingFilter">
 			<en>Loading filter</en>
@@ -748,6 +771,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Filtr ładowania</pl>
 			<es>Filtro de carga</es>
 			<br>Filtro de carregamento</br>
+			<pt>Escolher carga</pt>
 		</text>
 		<text name="universalAutoload_enabled">
 			<en>Full only</en>
@@ -759,6 +783,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Tylko pełne</pl>
 			<es>Solo completo</es>
 			<br>Completo apenas</br>
+			<pt>Apenas completos</pt>
 		</text>
 		<text name="universalAutoload_disabled">
 			<en>Any</en>
@@ -770,6 +795,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Każde</pl>
 			<es>Cualquiera</es>
 			<br>Qualquer</br>
+			<pt>Todos</pt>
 		</text>
 		<text name="universalAutoload_startLoading">
 			<en>Start loading</en>
@@ -781,6 +807,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Rozpocznij ładowanie</pl>
 			<es>Empezar carga</es>
 			<br>Iniciar carregamento</br>
+			<pt>Iniciar a carga</pt>
 		</text>
 		<text name="universalAutoload_stopLoading">
 			<en>Stop loading</en>
@@ -792,6 +819,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Zatrzymaj ładowanie</pl>
 			<es>Detener carga</es>
 			<br>Parar carregamento</br>
+			<pt>Parar a carga</pt>
 		</text>
 		<text name="universalAutoload_unloadAll">
 			<en>Unload</en>
@@ -803,6 +831,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Rozładuj</pl>
 			<es>Descargar</es>
 			<br>Descarregar</br>
+			<pt>Descarregar</pt>
 		</text>
 		<text name="universalAutoload_materialType">
 			<en>Material type</en>
@@ -814,6 +843,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Typ materiału</pl>
 			<es>Tipo de material</es>
 			<br>Tipo de material</br>
+			<pt>Tipo carga</pt>
 		</text>
 		<text name="universalAutoload_containerType">
 			<en>Container type</en>
@@ -825,6 +855,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Typ kontenera</pl>
 			<es>Tipo de contenedor</es>
 			<br>Tipo de contêiner</br>
+			<pt>Tipo condicionamento</pt>
 		</text>
 		<text name="universalAutoload_ALL">
 			<en>All</en>
@@ -836,6 +867,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Wszystko</pl>
 			<es>Cualquiera</es>
 			<br>Todos</br>
+			<pt>Todos</pt>
 		</text>
 		<text name="universalAutoload_LIQUID_TANK">
 			<en>IBC Tank</en>
@@ -847,6 +879,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Zbiornik Płynów</pl>
 			<es>Palé de líquido</es>
 			<br>Tanque líquido IBC</br>
+			<pt>Tanque IBC</pt>
 		</text>
 		<text name="universalAutoload_EURO_PALLET">
 			<en>Euro Pallet</en>
@@ -858,6 +891,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Euro Paleta</pl>
 			<es>Palé</es>
 			<br>Euro Pallet</br>
+			<pt>Euro Palete</pt>
 		</text>
 		<text name="universalAutoload_PIONEER_PALLET">
 			<en>Pioneer Pallet</en>
@@ -869,6 +903,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Pioneer Paleta</pl>
 			<es>Palé Pioneer</es>
 			<br>Pioneer Pallet</br>
+			<pt>Palete Pioneer</pt>
 		</text>
 		<text name="universalAutoload_BIGBAG_PALLET">
 			<en>Bigbag Pallet</en>
@@ -880,6 +915,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Bigbag Paleta</pl>
 			<es>Palé de sacos grandes</es>
 			<br>Bigbag Pallet</br>
+			<pt>Palete de Bigbags</pt>
 		</text>
 		<text name="universalAutoload_BIGBAG">
 			<en>Bigbag</en>
@@ -891,6 +927,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Torba</pl>
 			<es>Saco grande</es>
 			<br>Bigbag</br>
+			<pt>Bigbag</pt>
 		</text>
 		<text name="universalAutoload_POTATOBOX">
 			<en>Potato Box</en>
@@ -902,6 +939,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Ziemnioki</pl>
 			<es>Caja de patatas</es>
 			<br>Caixa de batatas</br>
+			<pt>Palete de Batatas</pt>
 		</text>
 		<text name="universalAutoload_BALE">
 			<en>Bale</en>
@@ -913,6 +951,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Bele</pl>
 			<es>Paca</es>
 			<br>Fardo</br>
+			<pt>Fardo</pt>
 		</text>
 		<text name="universalAutoload_ROUND_BALE">
 			<en>Round bale</en>
@@ -924,6 +963,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Okrągłe bele</pl>
 			<es>Paca redonda</es>
 			<br>Fardo redondo</br>
+			<pt>Fardo Redondo</pt>
 		</text>
 		<text name="universalAutoload_SQUARE_BALE">
 			<en>Square bale</en>
@@ -935,6 +975,7 @@ TRADUÇÃO - BR por Myiamoto86
 			<pl>Kańciaste bele</pl>
 			<es>Paca rectangular</es>
 			<br>fardo quadrado</br>
+			<pt>Fardo quadrado</pt>
 		</text>
 	</l10n>
 
